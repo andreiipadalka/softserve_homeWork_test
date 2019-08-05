@@ -1,0 +1,11 @@
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\bin\Debug\netcoreapp2.1\v2.deps.json
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\bin\Debug\netcoreapp2.1\v2.runtimeconfig.json
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\bin\Debug\netcoreapp2.1\v2.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\bin\Debug\netcoreapp2.1\v2.dll
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\bin\Debug\netcoreapp2.1\v2.pdb
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\obj\Debug\netcoreapp2.1\v2.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\obj\Debug\netcoreapp2.1\v2.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\obj\Debug\netcoreapp2.1\v2.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\obj\Debug\netcoreapp2.1\v2.AssemblyInfo.cs
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\obj\Debug\netcoreapp2.1\v2.dll
+C:\Users\Tom\Desktop\git repo softserve\v2\v2\obj\Debug\netcoreapp2.1\v2.pdb
